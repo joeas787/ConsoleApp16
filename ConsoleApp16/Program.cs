@@ -6,6 +6,7 @@ namespace ConsoleApp16
     {
         static void Main(string[] args)
         {
+            
             #region 1
             /*
             int n = int.Parse(Console.ReadLine());
